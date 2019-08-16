@@ -13,6 +13,9 @@ Usage
 
 Pick your favorite theme from the `build/` directory, place the file in vimiv's styles
 directory and set the `style` option in `vimiv.conf` to the name of your chosen file.
+See
+[vimiv's documentation](https://karlch.github.io/vimiv-qt/documentation/configuration/style.html)
+for more details on styling.
 
 License
 -------
